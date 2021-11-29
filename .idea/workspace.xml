@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d35dc814-b79f-4577-8816-b819b069eac7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/res/backgr/backgr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/backgr/red_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/backgr/red_button_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/font/dlxfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/font/kenvector_future.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/control/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/control/collision/Collision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/Bomb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/Brick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/item/FlameUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/item/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/item/SpeedUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/item/WalkPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/lifesingame/Ballom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/lifesingame/LifesInGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/menubutton/Bomberbutton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/oop/bomberman/BombermanGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/BombermanGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/Bomber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/Bomber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/Grass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/Grass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/entities/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/oop/bomberman/graphics/Sprite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/oop/bomberman/graphics/Sprite.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20MI47B7j9FMEQ2spENqtwnqSIw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OOP/BOMBER/bomberman" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BombermanGame" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uet.oop.bomberman.BombermanGame" />
+      <module name="bomberman" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uet.oop.bomberman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d35dc814-b79f-4577-8816-b819b069eac7" name="Changes" comment="" />
+      <created>1635847836940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635847836940</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="_map" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
